@@ -1,2 +1,2 @@
-# Ruby on Rails Friends List App
+# Friends List App using Ruby on Rails
 
